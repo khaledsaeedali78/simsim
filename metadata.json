@@ -1,0 +1,6 @@
+{
+  "name": "مغامرات سمسم",
+  "description": "لعبة تفاعلية تعليمية للأطفال لتعلم الحروف العربية، الأرقام والألوان بطريقة ممتعة وشيقة عبر 20 مستوى متدرجاً من الصعوبة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
